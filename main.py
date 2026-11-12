@@ -3,7 +3,7 @@ fname = "Adam"
 lname = "Davidson"
 risk_analyst = False
 full_name = f"{fname} {lname}!!"
-months_experience = 0
+months_experience = 10
 
 user_email = input("What is your email? ").lower()
 
